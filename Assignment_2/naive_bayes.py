@@ -3,7 +3,7 @@
 # FILENAME: title of the source file
 # SPECIFICATION: description of the program
 # FOR: CS 4210- Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 1 hour
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard
@@ -77,5 +77,6 @@ for i in range(len(testX)):
               + str(testFileDB[i][4]).ljust(15)
               + outputStr.ljust(15)
               + str(round(confidence, 2)).ljust(15))
+
 
 
