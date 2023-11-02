@@ -3,7 +3,7 @@
 # FILENAME: svm.py
 # SPECIFICATION: description of the program
 # FOR: CS 4210 - Assignment #3
-# TIME SPENT: 
+# TIME SPENT: 2 hours
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU HAVE TO WORK WITH THE PYTHON LIBRARIES numpy AND pandas to complete this code.
